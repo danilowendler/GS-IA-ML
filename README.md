@@ -159,7 +159,7 @@ No Jupyter, use **Kernel → Restart & Run All**. Os CSVs da A701 já estão em 
 ## Evidências
 
 - Notebook executado, com todas as saídas e gráficos: [`ml/refresca_ml.ipynb`](ml/refresca_ml.ipynb)
-- Vídeo de até 5 minutos (não listado): [link do YouTube]
+- Vídeo de até 5 minutos (não listado): https://www.youtube.com/watch?v=rZ73XZlrY6E
 
 ## Entregáveis da disciplina
 
@@ -169,7 +169,7 @@ No Jupyter, use **Kernel → Restart & Run All**. Os CSVs da A701 já estão em 
 - [x] 48 combinações de hiperparâmetros (3 principais + peso da classe rara), validação cruzada só no treino (2,0)
 - [x] Métricas de treino e teste lado a lado, com gráficos e discussão de overfitting (2,0)
 - [x] Conclusão e leitura para o cidadão (1,0)
-- [ ] Vídeo de até 5 minutos no YouTube (não listado)
+- [x] Vídeo de até 5 minutos no YouTube (não listado)
 
 ## Dados
 
